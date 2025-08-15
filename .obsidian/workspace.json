@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edari.md",
+                "file": "Notes/hehe haha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Edari"
+              "title": "Backlinks for hehe haha"
             }
           },
           {
@@ -145,13 +145,23 @@
               "icon": "lucide-list",
               "title": "Outline of Edari"
             }
+          },
+          {
+            "id": "fcc586e76fab729a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b2197293d4542f9",
+  "active": "adebc601d10a219e",
   "lastOpenFiles": [
     "Notes/Starfall - One Shot.md",
     "Notes/hehe haha.md",
