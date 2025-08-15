@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Location Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Location Template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Location Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Location Template"
             }
           },
           {
@@ -178,8 +178,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8bdbe27c104fb250",
+  "active": "aab316c9e9d59412",
   "lastOpenFiles": [
+    "Templates/Session Template.md",
+    "Templates/NPC Template.md",
+    "Templates/Location Template.md",
+    "Templates/PC Template.md",
+    "Templates/Untitled.md",
+    "README.md",
     "Buttons",
     "z_Images",
     "Templates",
@@ -190,16 +196,13 @@
     "Locations",
     "Notes/hehe haha.md",
     "Notes",
-    "Untitled.md",
     "Notes",
-    "README.md",
     "Obsidian Renewal/Towns/Edari.md",
     "Obsidian Renewal/Notes/Starfall - One Shot.md",
     "Obsidian Renewal/README.md",
     "Obsidian Renewal/Towns/Avalon.md",
     "Obsidian Renewal",
     "Notes/a cool edit.md",
-    "Obsidian Renewal/Notes",
     "People/Town -.md",
     "Welcome.md"
   ]
