@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hehe haha.md",
+                "file": "Notes/hehe haha.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hehe haha.md",
+                "file": "Notes/hehe haha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +178,9 @@
   "lastOpenFiles": [
     "Notes",
     "Untitled.md",
-    "hehe haha.md",
-    "Starfall - One Shot.md",
+    "Notes/hehe haha.md",
+    "Notes",
+    "Notes/Starfall - One Shot.md",
     "README.md",
     "Obsidian Renewal/Towns/Edari.md",
     "Obsidian Renewal/Notes/Starfall - One Shot.md",
