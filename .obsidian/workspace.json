@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/hehe haha.md",
+                "file": "hehe haha.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/hehe haha.md",
+                "file": "hehe haha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,12 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b2197293d4542f9",
+  "active": "8bdbe27c104fb250",
   "lastOpenFiles": [
     "Notes",
     "Untitled.md",
-    "Notes/hehe haha.md",
-    "Notes/Starfall - One Shot.md",
+    "hehe haha.md",
+    "Starfall - One Shot.md",
     "README.md",
     "Obsidian Renewal/Towns/Edari.md",
     "Obsidian Renewal/Notes/Starfall - One Shot.md",
