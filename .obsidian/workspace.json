@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,15 +202,15 @@
   },
   "active": "425140eb984a7ce1",
   "lastOpenFiles": [
+    "Templates/Location Template.md",
+    "Templates/NPC Template.md",
+    "Templates/PC Template.md",
+    "Templates/Session Template.md",
     "New Session.md",
     "Button.md",
-    "Templates/Session Template.md",
-    "Templates/PC Template.md",
     "Session-Notes/Untitled.md",
-    "Templates/NPC Template.md",
     "Locations/Dorlev.md",
     "Misc",
-    "Templates/Location Template.md",
     "NPCs/Morgrim Truthwhisper.md",
     "Locations/Cities",
     "Locations/Untitled.md",
