@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "91d2b1c0c56b23e5",
+        "id": "ae8d236a7d5e59d9",
         "type": "tabs",
         "children": [
           {
-            "id": "425140eb984a7ce1",
+            "id": "9457893fb1d5fd93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Session Template.md",
+                "file": "NPCs/Fade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Template"
+              "title": "Fade"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "2215c10893335eaf",
         "type": "tabs",
-        "dimension": 24.455445544554454,
+        "dimension": 24.849094567404425,
         "children": [
           {
             "id": "aab316c9e9d59412",
@@ -54,7 +54,7 @@
       {
         "id": "3ac5f58ea32457f0",
         "type": "tabs",
-        "dimension": 75.54455445544555,
+        "dimension": 75.15090543259558,
         "children": [
           {
             "id": "8bdbe27c104fb250",
@@ -200,22 +200,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "425140eb984a7ce1",
+  "active": "9457893fb1d5fd93",
   "lastOpenFiles": [
-    "Templates/Location Template.md",
-    "Templates/NPC Template.md",
-    "Templates/PC Template.md",
+    "Button.md",
+    "NPCs/Fade.md",
+    "Locations/Dorlev.md",
+    "README.md",
     "Templates/Session Template.md",
     "New Session.md",
-    "Button.md",
+    "New Location.md",
+    "Locations/New Location.md",
+    "Templates/NPC Template.md",
+    "Templates/PC Template.md",
+    "Templates/Location Template.md",
     "Session-Notes/Untitled.md",
-    "Locations/Dorlev.md",
     "Misc",
     "NPCs/Morgrim Truthwhisper.md",
     "Locations/Cities",
     "Locations/Untitled.md",
     "Templates/Untitled.md",
-    "README.md",
     "Buttons",
     "z_Images",
     "Templates",
