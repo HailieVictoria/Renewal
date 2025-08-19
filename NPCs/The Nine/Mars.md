@@ -1,7 +1,19 @@
+---
+aliases:
+  - Mars
+  - The Cleric
+  - The Twilight Vessel
+  - Twilight Vessel
+tags:
+  - NPC
+  - Nine
+---
 ## Overview
 - ###### Name/Alias:  
-	- Mars
-- ###### Gender: 
+	- Mars - The Twilight Vessel
+- ###### Class:
+	- Cleric
+- ###### Gender:
 	- Male
 - ###### Location: 
 	- 

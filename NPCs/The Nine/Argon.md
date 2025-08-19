@@ -1,6 +1,18 @@
+---
+aliases:
+  - Argon
+  - The Sorcerer
+  - The First Dragon
+  - First Dragon
+tags:
+  - NPC
+  - Nine
+---
 ## Overview
 - ###### Name/Alias:  
-	- Argon
+	- Argon - The First Dragon
+- ###### Class: 
+	- Sorcerer
 - ###### Gender: 
 	- Male
 - ###### Location: 
@@ -23,3 +35,6 @@
 
 - General Nine Info:
 	- Drowning Metaphorically
+- Fade 
+	- Argon really hates Fade
+	- His goals are opposite of hers 

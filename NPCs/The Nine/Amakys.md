@@ -1,7 +1,19 @@
+---
+aliases:
+  - Amakys
+  - The Ranger
+  - The Wild Mirror
+  - Wild Mirror
+tags:
+  - NPC
+  - Nine
+---
 
 ## Overview
 - ###### Name/Alias:  
-	- Amakys
+	- Amakys - The Wild Mirror
+- ###### Class: 
+	- Ranger
 - ###### Gender: 
 	- Female
 - ###### Location: 

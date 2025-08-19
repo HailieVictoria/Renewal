@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/The Nine/Vesper.md",
+                "file": "NPCs/The Nine/User.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vesper"
+              "title": "User"
             }
           }
         ]
@@ -200,20 +200,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8bdbe27c104fb250",
+  "active": "098ec52f7c7adceb",
   "lastOpenFiles": [
-    "NPCs/The Nine",
-    "NPCs/The Nine/Amakys.md",
     "NPCs/The Nine/Vesper.md",
-    "Button.md",
     "NPCs/The Nine/User.md",
     "NPCs/The Nine/Siege.md",
     "NPCs/The Nine/Pendyll Quil.md",
-    "NPCs/The Nine/Argon.md",
-    "NPCs/The Nine/Fade.md",
-    "NPCs/The Nine/Lyra.md",
     "NPCs/The Nine/Mars.md",
+    "NPCs/The Nine/Lyra.md",
+    "NPCs/The Nine/Fade.md",
+    "NPCs/The Nine/Argon.md",
+    "NPCs/The Nine/Amakys.md",
     "NPCs/Morgrim Truthwhisper.md",
+    "NPCs/The Nine",
+    "Button.md",
     "Templates/Location Template.md",
     "Templates/PC Template.md",
     "Templates/Session Template.md",
@@ -236,7 +236,6 @@
     "Session-Notes",
     "PCs",
     "NPCs",
-    "Locations",
-    "Notes"
+    "Locations"
   ]
 }

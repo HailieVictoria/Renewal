@@ -1,7 +1,18 @@
-
+---
+aliases:
+  - Siege
+  - The Paladin
+  - The Just Crown
+  - Just Crown
+tags:
+  - NPC
+  - Nine
+---
 ## Overview
 - ###### Name/Alias:  
-	- Siege
+	- Siege - The Just Crown
+- ###### Class:
+	- Paladin
 - ###### Gender: 
 	- Male
 - ###### Location: 

@@ -1,7 +1,18 @@
-
+---
+aliases:
+  - Fade
+  - The Warlock
+  - The Collector
+  - Collector
+tags:
+  - NPC
+  - Nine
+---
 ## Overview
 - ###### Name/Alias:  
-	- Fade
+	- Fade - The Collector
+- ###### Class: 
+	- Warlock
 - ###### Gender: 
 	- Female
 - ###### Location: 

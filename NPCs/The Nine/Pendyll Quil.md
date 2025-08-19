@@ -1,6 +1,21 @@
+---
+aliases:
+  - Pendyll Quil
+  - Pendyll
+  - The Wizard
+  - The Mortal Maker
+  - Mortal Maker
+  - DayQuil
+  - Penicillin
+tags:
+  - NPC
+  - Nine
+---
 ## Overview
 - ###### Name/Alias:  
-	- Pendyll Quil
+	- Pendyll Quil - The Mortal Maker
+- ###### Class:
+	- Wizard
 - ###### Gender: 
 	- Female/Male
 - ###### Location: 

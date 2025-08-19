@@ -1,6 +1,18 @@
+---
+aliases:
+  - User
+  - The Artificer
+  - The Grand Architect
+  - Grand Architect
+tags:
+  - NPC
+  - Nine
+---
 ## Overview
 - ###### Name/Alias:  
-	- User
+	- User - The Grand Architect
+- ###### Class:
+	- Artificer
 - ###### Gender: 
 	- Male
 - ###### Location: 

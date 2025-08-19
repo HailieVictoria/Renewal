@@ -1,7 +1,19 @@
+---
+aliases:
+  - Lyra
+  - The Bard
+  - The Voice Eternal
+  - Voice Eternal
+tags:
+  - NPC
+  - Nine
+---
 ## Overview
 - ###### Name/Alias:  
-	- Lyra
-- ###### Gender: 
+	- Lyra - The Voice Eternal
+- ###### Class: 
+	- Bard
+- ###### Gender 
 	- Female
 - ###### Location: 
 	- 
