@@ -20,7 +20,7 @@ tags:
 - ###### Appearance:
 	- 
 - ###### Relationships: 
-	- Fade - close
+	- [[Fade]] - close
 
 
 

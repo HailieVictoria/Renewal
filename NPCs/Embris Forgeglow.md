@@ -1,12 +1,15 @@
 ---
-aliases: Morgrim
+aliases:
+  - Embris
+  - First Flamekeeper
 tags:
   - NPC
 ---
-
 ## Overview
+- ###### Name/Alias:  
+	- Embris
 - ###### Gender: 
-	- Male
+	- Female
 - ###### Location: 
 	- [[Dorlev]]
 - ###### Appearance:
@@ -15,9 +18,11 @@ tags:
 	- 
 
 
+
 ## Backstory Notes
 
-- 
+- Master Forgesmith in [[Dorlev]]
+- First Flamekeeper
 
 
 

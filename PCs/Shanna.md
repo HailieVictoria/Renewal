@@ -1,6 +1,7 @@
 ---
-aliases: 
-Player: 
+aliases:
+  - Shanna
+Player: Jennie <3
 tags:
   - PC
 ---

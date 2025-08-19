@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Ethel
 Player: 
 tags:
   - PC

@@ -20,7 +20,7 @@ tags:
 - ###### Appearance:
 	- Race: Tortle 
 - ###### Relationships: 
-	- Amakys - Mortally tied to Vesper
+	- [[Amakys]] - Mortally tied to Vesper
 
 
 
@@ -33,4 +33,4 @@ tags:
 ## General Notes
 
 - General Nine Info:
-	- Tied to Amakys -> Mortally -> Partially the same person
+	- Tied to [[Amakys]] -> Mortally -> Partially the same person

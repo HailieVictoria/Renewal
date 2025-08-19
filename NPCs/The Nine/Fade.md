@@ -20,8 +20,8 @@ tags:
 - ###### Appearance:
 	- 
 - ###### Relationships: 
-	- Mars - friendly/close
-	- Argon - hates fade
+	- [[Mars]] - friendly/close
+	- [[Argon]] - hates fade
 
 
 

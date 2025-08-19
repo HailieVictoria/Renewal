@@ -20,7 +20,7 @@ tags:
 - ###### Appearance:
 	- 
 - ###### Relationships: 
-	- Fade - Hates her
+	- [[Fade]] - Hates her
 
 
 
@@ -35,6 +35,6 @@ tags:
 
 - General Nine Info:
 	- Drowning Metaphorically
-- Fade 
-	- Argon really hates Fade
+- [[Fade]] 
+	- Argon really hates [[Fade]]
 	- His goals are opposite of hers 

@@ -1,0 +1,64 @@
+---
+endLoc: Dorlev
+sessionNum: "1"
+date: 8-13-2025
+type: sessNote
+---
+## Session Notes
+
+- Everyone is headed to an abandoned mine
+	- [[Elephoy]] and [[Ofrien]]
+	- Then [[Ethel Hawthorn]] and [[Shanna]]
+	- Finally, [[Tylos Bruh-yil]] and [[Hesper Archai]]
+- Follow footsteps into the mountain
+- 3 groups converge to a stone room
+- We are all flanked by spirits and shades
+	- We fight
+		- 2 dozen shades
+		- Prevailed
+	- We get all the info now
+- [[Hesper Archai|Hesper]] plays board games with Stellan
+- [[Tylos Bruh-yil|Tylos]]
+	- Signet: Embreforlow
+		- Master forgesmith in dorlov 
+	- Pale blue skin
+	- White hair
+	- 5’11
+- [[Elephoy]]
+	- Aasimar
+	- Shiny skin
+	- Wearing a blackish cloak
+	- Unknown insignia
+	- Staff
+	- Stashed mini telescope
+	- 5’9
+- [[Hesper Archai|Hesper]]
+	- 5’8 
+	- Worn but sturdy walking boots
+	- Scattered bookbag
+	- Great smile!
+	- Human
+- Ofrin
+	- Owlin 6’3
+	- Red book
+	- Wide wings
+- [[Shanna]]
+	- Wood elf
+	- Brown eyes/ brown hair
+	- 5’5
+- [[Elephoy]] and [[Ofrien]]
+	- Were told to come to the mine by divine intervention
+- Glowing runes in stone room
+	- Look dwarfish
+	- 300-500 years old
+- Yuki 
+	- Books in yuki on a similar occurrence - starlike object
+	- Another occurrence in queen’s tower
+	- If you want to go there you have to talk to the dragon
+- Announcement 
+	- City of locquine declared peace with yuki
+- [[Elephoy]] and [[Ofrien]]
+	- [[Mars]] pointed them to the cave
+	- “[[Mars|The Cleric]]”
+	- [[Mars]] intervened with the peace treaty
+- "Locquine problem resolved headed down to Garlow"

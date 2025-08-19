@@ -21,7 +21,7 @@ tags:
 - ###### Appearance:
 	- 
 - ###### Relationships: 
-	- Vesper - Mortally tied to Amakys
+	- [[Vesper]] - Mortally tied to Amakys
 
 
 
@@ -35,4 +35,4 @@ tags:
 ## General Notes
 
 - General Nine Info:
-	- Tied to Vesper -> Mortally -> Partially the same person
+	- Tied to [[Vesper]] -> Mortally -> Partially the same person
