@@ -1,15 +1,14 @@
-
 ## Overview
 - ###### Name/Alias:  
-	- 
+	- Argon
 - ###### Gender: 
-	- 
+	- Male
 - ###### Location: 
 	- 
 - ###### Appearance:
 	- 
 - ###### Relationships: 
-	- 
+	- Fade - Hates her
 
 
 
@@ -22,4 +21,5 @@
 
 ## General Notes
 
-- 
+- General Nine Info:
+	- Drowning Metaphorically
