@@ -1,4 +1,3 @@
-New Location
 
 ## Overview
 - ###### Type:  

@@ -8,7 +8,7 @@ tags:
 
 ## Quick Notes
 - ###### Gender: 
-	- 
+	- Female
 - ###### Home Location: 
 	- 
 - ###### Appearance:
