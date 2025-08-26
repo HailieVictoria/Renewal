@@ -1,3 +1,8 @@
+---
+aliases:
+tags:
+  - NPC
+---
 <% tp.file.title %>
 <% await tp.file.move("/NPCs/" + tp.file.title) %>
 <%*
