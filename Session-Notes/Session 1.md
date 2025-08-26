@@ -4,7 +4,7 @@ sessionNum: "1"
 date: 8-13-2025
 type: sessNote
 ---
-## Session Notes
+ ## Session Notes
 
 - Everyone is headed to an abandoned mine
 	- [[Elephoy]] and [[Ofrien]]
@@ -15,12 +15,21 @@ type: sessNote
 - We are all flanked by spirits and shades
 	- We fight
 		- 2 dozen shades
-		- Prevailed
-	- We get all the info now
-- [[Hesper Archai|Hesper]] plays board games with Stellan
+		- We all make it through the fight
+		- Very exhausted after, and beaten up
+- Elephoy reaches out and touches a piece of parchment
+	- We get the info about The Nine
+	- The parchment crumbles up and turns to dust 
+- Ofrien teaches ecology, Elephoy teaches astronomy 
+- Stellan was looking for Elephoy
+	- [[Hesper Archai|Hesper]] plays board games with Stellan on Saturdays 
+- Hesper and Tylos were following us (Ethel and Shanna)
+- Ofrien clocks Ethel as the one who has gone to the 6th level of the library
 - [[Tylos Bruh-yil|Tylos]]
-	- Signet: Embreforlow
-		- Master forgesmith in dorlov 
+	- Blindfold made of metal
+	- Air Genasi 
+	- Signet: Embris Forgeglow
+		- Master Smith in Dorlov 
 	- Pale blue skin
 	- White hair
 	- 5’11
@@ -29,28 +38,43 @@ type: sessNote
 	- Shiny skin
 	- Wearing a blackish cloak
 	- Unknown insignia
+		- His tribe
 	- Staff
 	- Stashed mini telescope
 	- 5’9
 - [[Hesper Archai|Hesper]]
-	- 5’8 
+	- 5’8 (on a good day)
 	- Worn but sturdy walking boots
+	- common traveler's cloak
 	- Scattered bookbag
+	- stubble
+	- short brown hair
 	- Great smile!
 	- Human
-- Ofrin
+- [[Ofrien]] 
 	- Owlin 6’3
-	- Red book
+	- Wearing gray adventure's cloak
+	- Satchel made out of leaves and branches
+		- Red book hanging out
 	- Wide wings
 - [[Shanna]]
 	- Wood elf
-	- Brown eyes/ brown hair
+	- long brown eyes/ brown hair
+	- worn studded leather
 	- 5’5
 - [[Elephoy]] and [[Ofrien]]
 	- Were told to come to the mine by divine intervention
+- Tylos graduated 5 years ago
+	- Has had his blindfold for 12 years 
+- Tylos questions why Ethel and Shanna are traveling together 
 - Glowing runes in stone room
 	- Look dwarfish
 	- 300-500 years old
+- Elephoy and Ofrien try to run
+	- Shanna places a hunter's mark on Elephoy and we caught up
+	- Ofrien flies back to Dorlev with the telescope 
+	- We question Elephoy when we get out
+- Tylos and Hesper stay back and look at the runes 
 - Yuki 
 	- Books in yuki on a similar occurrence - starlike object
 	- Another occurrence in queen’s tower
