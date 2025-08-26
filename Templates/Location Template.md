@@ -1,3 +1,8 @@
+---
+locType:
+tags:
+  - Location
+---
 <% tp.file.title %>
 <% await tp.file.move("/Locations/" + tp.file.title) %>
 <%*
@@ -10,7 +15,6 @@ if (!hasTitle) {
     title = tp.file.title;
 }
 _%>
-
 ## Overview
 - ###### Type:  
 	- 

@@ -15,7 +15,6 @@ if (!hasTitle) {
     title = tp.file.title;
 }
 _%>
-
 ## Overview
 - ###### Name/Alias:  
 	- 

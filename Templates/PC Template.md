@@ -4,7 +4,6 @@ Player:
 tags:
   - PC
 ---
-
 ## Quick Notes
 - ###### Gender: 
 	- 
