@@ -4,7 +4,8 @@ sessionNum: "1"
 date: 8-13-2025
 type: sessNote
 ---
- ## Session Notes
+
+## Session Notes
 
 - Everyone is headed to an abandoned mine
 	- [[Elephoy]] and [[Ofrien]]

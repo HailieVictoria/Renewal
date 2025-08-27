@@ -11,4 +11,4 @@ if we fall, we will end up as statues
 
 stars say that centuries from now, people will find their way here and have the
 ability to speak to us as statues
-dasdas
+
