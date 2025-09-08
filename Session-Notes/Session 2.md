@@ -5,4 +5,93 @@ date: 8-26-2025
 type: sessNote
 ---
 ## Session Notes
-- 
+
+- We move from the library to Ofrien's office, to discuss the my lies :(
+- 500 gp for tuition for a semester 
+- Stellan
+	- A lot of the students leaving are going south
+		- Going "home" -> yuki 
+- Gorskiy
+	- Marta Seedworth
+		- Might have some insight on the peace treaty matters 
+	- "Hi, its been so long since I've seen one of my own creations"
+		- Voice in Hesper's rock 
+	- Rune for the project means "change"
+		- Offy's book gets 8
+		- Hesper's rock gets 27
+		- Runes from cave get 27
+		- Offy gets 3
+	- I loose this information:
+		- These objects, the only way to get rid of one is with something of equal magnitude. 
+		- If the person who placed it, succeeds - calamity could strike
+	- "Lyra is listening"
+	- Avoid deep blue crystals
+	- If you found a cave, it moved -> can find it again
+	- "The one that listens is the one who inhibits speech"
+- Kogakura
+	- Giant explosion
+	- has something to do with pendyll 
+- Rocks
+	- Runes and stuff
+	- what if he tried to make sending stones out of one of them being a sending stone  
+- Sharing info
+	- Hesper
+		- Amakys -  
+		- Argon - 
+		- Fade -
+		- Lyra -
+		- Mars -
+		- Pendyll Quil - 
+		- Siege - 
+		- User - 
+		- Vesper - 
+	- Tylos
+		- Amakys -  
+		- Argon - 
+		- Fade -
+		- Lyra -
+		- Mars -
+		- Pendyll Quil - 
+		- Siege - 
+		- User - 
+		- Vesper - 
+	- Elephoy
+		- Amakys -  
+		- Argon - 
+		- Fade -
+		- Lyra -
+		- Mars -
+		- Pendyll Quil - 
+		- Siege - 
+		- User - 
+		- Vesper - 
+	- Ofrien
+		- Amakys -  
+		- Argon - 
+		- Fade -
+		- Lyra -
+		- Mars -
+		- Pendyll Quil - 
+		- Siege - 
+		- User - 
+		- Vesper - 
+	- Shanna
+		- Amakys -  
+		- Argon - 
+		- Fade -
+		- Lyra -
+		- Mars -
+		- Pendyll Quil - 
+		- Siege - 
+		- User - 
+		- Vesper - 
+	- Ethel
+		- Amakys -  
+		- Argon - 
+		- Fade -
+		- Lyra -
+		- Mars -
+		- Pendyll Quil - 
+		- Siege - 
+		- User - 
+		- Vesper - 
