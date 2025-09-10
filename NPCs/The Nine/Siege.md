@@ -35,3 +35,12 @@ tags:
 
 -  General Nine Info:
 	- Self-reliant and direct
+	- defending homeland
+	- Location: Urok
+	- Necessary oversight
+	- practical idealist
+	- Ties with User, Pendyll
+	- Approachability: Unresponsive 
+	- Driven
+
+

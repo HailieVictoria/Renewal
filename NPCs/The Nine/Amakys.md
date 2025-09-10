@@ -36,3 +36,10 @@ tags:
 
 - General Nine Info:
 	- Tied to [[Vesper]] -> Mortally -> Partially the same person
+	- Seeking an answer
+	- Location: Wandering City
+	- Active Observation
+	- Ties with Mars, Argon, Vesper
+	- Approachability: Wary
+	- Instinctive
+

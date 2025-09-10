@@ -34,3 +34,12 @@ tags:
 
 - General Nine Info:
 	- Tied to [[Amakys]] -> Mortally -> Partially the same person
+	- Healing the world
+	- Location: Starfull
+	- Contemplative, long term
+	- natural metaphor
+	- values preservation of knowledge 
+	- patient observer
+	- Ties with Mars, Argon, Amakys
+	- Approachability: Open
+	- Hopeful

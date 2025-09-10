@@ -36,3 +36,11 @@ tags:
 - General Nine Info:
 	- A perfectionist -> sees herself as destined
 	- changeling 
+	- Lyra - traveling and collecting 
+	- Location: Geordon
+	- Absolute conviction for peace
+	- Deep empathy for suffering
+	- Ties with Fade, Mars, User
+	- Approachability: Open 
+	- Curious
+

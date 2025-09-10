@@ -38,3 +38,10 @@ tags:
 - [[Fade]] 
 	- Argon really hates [[Fade]]
 	- His goals are opposite of hers 
+	- In solitude
+	- Location: The Evacuted City
+	- Lone Scholar
+	- Watches seals
+	- Ties with Amakys, Pendyll, Vesper, Fade
+	- Approachability: Wary
+	- Burdened

@@ -34,4 +34,15 @@ tags:
 
 ## General Notes
 
-- 
+- General Nine Info:
+	- Deep regret over sundering
+	- Patient but persistent
+	- Shows empathy
+	- Seeking an alternative
+	- Location: White Oracle
+	- Unwavering
+	- Ties with Lyra, Mars, User
+	- Approachability: Unresponsive
+
+
+
