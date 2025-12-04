@@ -87,3 +87,4 @@ type: sessNote
 	- “[[Mars|The Cleric]]”
 	- [[Mars]] intervened with the peace treaty
 - "Locquine problem resolved headed down to Garlow"
+
