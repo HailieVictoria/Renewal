@@ -1,5 +1,5 @@
 ---
-endLoc:
+endLoc: Garlow
 sessionNum: "8"
 date: 11-12-2025
 type: sessNote
