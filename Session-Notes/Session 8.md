@@ -38,7 +38,8 @@ type: sessNote
 	- seeking no vengeance 
 	- he has no contact with those he served at the side
 	- the nine do not know of his existence as he is not traceable!!!
-	- seeks out those who can remedy the mistake
+	- seeks out those who he thinks can remedy the mistake
+	- does not seek the fall of the nine 
 	- Mirabel does not follow him, but did
 		- when he fell she followed others
 	- they were once of the same kind
