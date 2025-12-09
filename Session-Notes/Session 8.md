@@ -40,9 +40,10 @@ type: sessNote
 	- the nine do not know of his existence as he is not traceable!!!
 	- seeks out those who he thinks can remedy the mistake
 	- does not seek the fall of the nine 
-	- Mirabel does not follow him, but did
-		- when he fell she followed others
-	- they were once of the same kind
+	- Mirabel currently does not follow him, but did
+		- when he fell she transitioned and started followed others
+		- this is why they have different objectives
+		- they were once of the same kind
 	- Fade - she walks between worlds seeking abolsutelion, wonders if she'll find redemption
 	- Argon - not all that appear to rule do, some burdens are carried quietly
 	- Pendyll - he studied the stars as morivan once did
