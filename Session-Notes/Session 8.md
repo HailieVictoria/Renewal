@@ -36,7 +36,8 @@ type: sessNote
 	- HE WAS THE FALLEN DURING THE SUNDERRING 
 	- fell from the heavens, and walks the world
 	- seeking no vengeance 
-	- the nine do not know of his existence as he is not traceable
+	- he has no contact with those he served at the side
+	- the nine do not know of his existence as he is not traceable!!!
 	- seeks out those who can remedy the mistake
 	- Mirabel does not follow him, but did
 		- when he fell she followed others
