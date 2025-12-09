@@ -11,7 +11,7 @@ type: sessNote
 		- the rest of the group comes thru the tree
 - we're taking to questioning by Captain Meris Coldbrook
 - Celestial stars for magic as a catalyst
-- Fallen stars - Quorstyl 
+- Fallen stars - Quor'styl 
 	- Gith name
 	- 4 occurences
 		- formations of 3 star like objects have been noticed on the ground

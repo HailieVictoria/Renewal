@@ -55,15 +55,15 @@ type: sessNote
 	- Group Lore
 		- flying newsletter
 
-**When fallen star meets withered ground,  
-And blight spreads swift where none is found,  
+**When fallen star meets withered ground, 
+And blight spreads swift where none is found,   
 Look not to sky for heaven's rage--”  
-The curator turns another page.** 
+The curator turns another page.**  curator maybe Mirabel 
 
-Three spheres of light that should not be,  
-Placed by hands that none can see,  
-Triangle drawn on mortal plane  
-To bring the Light from heaven's reign. 
+Three spheres of light that should not be,  there are 3 that should not be, others that should 
+Placed by hands that none can see,  -> mirabel placed them
+Triangle drawn on mortal plane  -> pointing to palace of light
+To bring the Light from heaven's reign.    
 
 The scholar's puppet thinks he leads,  
 While artifact collector feeds  

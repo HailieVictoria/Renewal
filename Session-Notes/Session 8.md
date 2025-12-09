@@ -19,18 +19,20 @@ type: sessNote
 		- individuals using magic beyond it's usually means
 		- fueling an illusion done by a politician 
 - Placed them
-	- Mirabel Dorm
+	- Mirabel Dorne
 		- known as the curator
 		- getting rid of them
 			- his method is inaccessible to us 
 - Morvian (1:15:00)
 	- A being of sacrificial flame and starlight
-	- both majesty and moral bondage
+	- wrapped in chains of his own making
+	- his form suggests both majesty and moral bondage
 	- where his heart should be, a star pulses with power
 	- known as the starbound
 	- fallen god
-	- obseratives built underground
-	- starcharts to restore divine power
+	- obserativeatories built underground
+	- star charts to restore divine power
+	- scarifies needed to restore divine power
 	- HE WAS THE FALLEN DURING THE SUNDERRING 
 	- fell from the heavens, and walks the world
 	- seeking no vengeance 

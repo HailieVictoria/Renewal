@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-Notes/Session 9.md",
+                "file": "Session-Notes/Session 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 9"
+              "title": "Session 8"
             }
           }
         ]
@@ -203,32 +203,33 @@
   },
   "active": "54b70f9bdf1ee719",
   "lastOpenFiles": [
-    "Session-Notes/Session 8.md",
     "Session-Notes/Session 9.md",
-    "Session-Notes/Session 6.md",
-    "Session-Notes/Session 7.md",
-    "Button.md",
-    "NPCs/The Nine/Lyra.md",
-    "NPCs/The Nine/Argon.md",
-    "NPCs/The Nine/Siege.md",
-    "NPCs/The Nine/Pendyll Quil.md",
-    "Locations/Towns/Garlow.md",
-    "Locations/Towns/Hume Une.md",
-    "Locations/Towns/Locquine.md",
-    "Locations/Towns/Makamina-Ku.md",
-    "Locations/Towns/Boseura.md",
+    "Session-Notes/Session 2.md",
     "Session-Notes/Session 1.md",
     "Session-Notes/Session 0.md",
-    "Session-Notes/Session 2.md",
-    "NPCs/The Nine/Fade.md",
-    "NPCs/The Nine/Mars.md",
-    "NPCs/The Nine/User.md",
-    "NPCs/The Nine/Vesper.md",
-    "Session-Notes/Session 4.md",
+    "Session-Notes/Session 7.md",
+    "Session-Notes/Session 6.md",
     "Session-Notes/Session 5.md",
     "Session-Notes/Session 3.md",
-    "Locations/Structures/Lurza.md",
-    "NPCs/Theuron, The Scholar.md",
+    "Session-Notes/Session 4.md",
+    "PCs/Hesper Archai.md",
+    "PCs/Ofrien.md",
+    "Session-Notes/Session 8.md",
+    "Misc/The Nine - A Scholar's Account.md",
+    "Misc/Chronicles of the Pre-Sundering Era.md",
+    "Locations/Towns/Chimus.md",
+    "Button.md",
+    "Untitled.base",
+    "Misc/Starfall - One Shot.md",
+    "Locations/Towns/Locquine.md",
+    "Locations/Structures/The Palace of Light.md",
+    "NPCs/The Nine/Fade.md",
+    "NPCs/The Nine/Argon.md",
+    "NPCs/The Nine/Lyra.md",
+    "NPCs/The Nine/Pendyll Quil.md",
+    "NPCs/The Nine/Siege.md",
+    "NPCs/The Nine/User.md",
+    "NPCs/The Nine/Vesper.md",
     "Out of Game",
     "Locations/Structures",
     "NPCs/The Nine",
@@ -237,7 +238,6 @@
     "Buttons",
     "z_Images",
     "Templates",
-    "Session-Notes",
-    "PCs"
+    "Session-Notes"
   ]
 }
