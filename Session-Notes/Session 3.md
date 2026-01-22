@@ -65,14 +65,14 @@ Placed by hands that none can see,  -> mirabel placed them
 Triangle drawn on mortal plane  -> pointing to palace of light
 To bring the Light from heaven's reign.    
 
-The scholar's puppet thinks he leads,  
-While artifact collector feeds  
-Upon the crisis he creates--”  
-The palace bright, it contemplates. 
+The scholar's puppet thinks he leads,  -> theuron (scholar), maybe valdris 
+While artifact collector feeds  -> Kaervos 
+Upon the crisis he creates--”  -> gnotobi 
+The palace bright, it contemplates. -> 
 
 What seems as star from distant void  
 Is tool by collector employed,  
-To pull from earth what should remain  
+To pull from earth what should r emain  
 And cast to astral sea's domain. 
 
 The swamp grows dark, the earth decays,  

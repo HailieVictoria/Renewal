@@ -1,7 +1,7 @@
 ---
 endLoc:
-sessionNum:
-date:
+sessionNum: "9"
+date: 12-3-2025
 type: sessNote
 ---
 ## Session Notes
