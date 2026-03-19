@@ -48,7 +48,7 @@ type: sessNote
 	- He wants to end, his life should've ended 
 		- long ago he met someone who thought could bring his end
 		- another god took this from him
-			- Ethelo 
+			- Ethilio
 		- he turned into a statue
 		- Healed child is part of the stranger, split off
 		- wants to erase himself
