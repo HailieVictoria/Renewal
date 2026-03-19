@@ -1,0 +1,65 @@
+---
+endLoc:
+sessionNum:
+date:
+type: sessNote
+---
+## Session Notes
+
+- Alydian Rhona
+	- Oirgin 
+		- Tiefling
+		- died to a mindflayer
+		- former party member reincarniated as bugbear
+		- not from Ve
+		- doing favors for Fade
+		- Can't find Spatha
+		- Attacked by a mindflayer
+			- has a scar
+			- don't have mentions of sightings on Ve but because theyre extra planar
+- Going to help Alydin with the forest
+	- crazy oak tree!
+	- deep bruise on the tree
+	- trunk splits, can see a mouth
+	- Tree was referred to as the keeper of something
+- Alyidn gives me a shard of a sphere that came from the tree
+	- Darkness magic
+	- Laylines
+		- pieces of magic or schools have more magic around the layline of the school
+			- Earth Air Fire and Water
+			- related to one of these laylines but not one of those
+			- how these laylines effect floral and habitats
+			- 2 more laylines he found, light and dark
+			- crossed at an intersection near the starlight sound
+	- Identify
+		- is a magic item
+		- properties: infect
+		- how to use, stick it inside of something
+		- has used all of its current magic
+		- piece of something, purpose no longer exists
+		- was created by a spell
+- We see David
+	- not David
+	- immortal
+	- failure, their devote
+	- Sylandria, the blood weaver
+	- Man in Keswindi, had a son, has quite the gift inside him, he used it, divine the names
+	- There is a way in the future, the nine could fall
+	- He wants to end, his life should've ended 
+		- long ago he met someone who thought could bring his end
+		- another god took this from him
+			- Ethelo 
+		- he turned into a statue
+		- Healed child is part of the stranger, split off
+		- wants to erase himself
+		- 9 were seeking a connection they should've never established
+		- they ripped Morvian out of the side
+		- severing the connections between our worlds and theirs
+		- "witness a fraction of what they used to be" as hesper gets stabbed
+			- hesper gets folded
+			- purple and black magic encompasses him 
+			- MULTIPLE HANDS
+			- PURPLE GUY WTF
+			- looking into the center of a galaxy
+			- "I am a fragment of Morvian"
+			- 
