@@ -5,7 +5,7 @@ In the annals of history, few names shine as brightly as Theuron the Scholar, wh
 
 The Scholar's Creed 
 
-Born over a millenium ago in the eastern plains, Theuron distinguished himself early as a mind unlike any other. Where his contemporaries rushed toward power, he moved with deliberate precision. Where others sought to dominate through force, he sought to understand through study. His approach to every challenge was methodical, thorough, and driven by an insatiable curiosity about the fundamental nature of existence itself. 
+Born over a millennium ago in the eastern plains, Theuron distinguished himself early as a mind unlike any other. Where his contemporaries rushed toward power, he moved with deliberate precision. Where others sought to dominate through force, he sought to understand through study. His approach to every challenge was methodical, thorough, and driven by an insatiable curiosity about the fundamental nature of existence itself. 
 
 "Knowledge without wisdom is destruction," he once wrote. "Wisdom without action is cowardice. True heroism lies in understanding deeply enough to act correctly." 
 
