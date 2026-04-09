@@ -22,6 +22,7 @@ tags:
 - ###### Relationships: 
 	- [[Mars]] - friendly/close
 	- [[Argon]] - hates fade
+	- [[Siege]] - probably not great
 
 
 
