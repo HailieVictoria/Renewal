@@ -17,8 +17,12 @@ type: sessNote
 	- Old gods numbered 11
 	- tunnel to fear isle would be needed
 	- set up tests so it could not be easily accessed 
-	- Kala Windseeker
+	- Kalla Windseeker
 	- another refused to give her name, smelled of metal
 	- sent someone polite, took something from the lower gallery, paid in magics
 - Siege!!
 	- Xoth
+
+
+
+- TALK NEXT SESSION TO FADE ABOUT SHARD AND PEACE
