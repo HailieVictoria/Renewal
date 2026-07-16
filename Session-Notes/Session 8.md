@@ -19,7 +19,7 @@ type: sessNote
 		- individuals using magic beyond it's usually means
 		- fueling an illusion done by a politician 
 - Placed them
-	- Mirabel Dorne
+	- Mirabel Dorn
 		- known as the curator
 		- getting rid of them
 			- his method is inaccessible to us 

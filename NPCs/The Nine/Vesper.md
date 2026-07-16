@@ -26,7 +26,7 @@ tags:
 
 ## Backstory Notes
 
-- 
+- 1/2 life, lives as Amakys
 
 
 

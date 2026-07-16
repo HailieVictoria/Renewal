@@ -20,7 +20,7 @@ type: sessNote
 		- Elias - half-elf
 		- Calyx - elf
 	- finding Mirabel's work across the eastern coast
-	- Malrik Dorn, The Stranger
+	- Malrik Dorne, The Stranger
 - FROM SESSION 18
 	- **The Unbroken Ground** — when four willing creatures each press both hands to any stone, earth, or natural surface and hold still for one full minute in silence, they cannot be involuntarily moved for 24 hours. No shove, no grapple drag, no forced movement spell or ability displaces them. They may move freely of their own will — they simply cannot be _made_ to move against it.
 	- trying to talk to peace's group again

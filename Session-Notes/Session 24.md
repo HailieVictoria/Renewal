@@ -25,10 +25,11 @@ type: sessNote
 - Finn friends
 	- David and Sarah
 	- Marro 
+- Finn is not chill
 - Lore
 	- palace of light
 	- 3 lights
 		- 3 lines connecting the symbols
 		- surrounding the palace 
 		- figure, diagram shifts
-			- Malric Dorne 
+			- Malrik Dorne 

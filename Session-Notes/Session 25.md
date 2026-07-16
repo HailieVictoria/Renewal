@@ -1,0 +1,68 @@
+---
+endLoc:
+sessionNum:
+date:
+type: sessNote
+---
+## Session Notes
+- Draphilir
+	- used to live on the coast
+	- one of the nine tried to do something about disaster passage and failed
+- Palace of Light
+	- "stupid fucking pendyll" 
+	- Amakys needs to do her job better (in reference to stolen eyes)
+		- she's supposed to keep beasts at bay
+		- vesper died when they pulled morvian out of the sky!!!!
+		- brought to half-life
+		- 1 soul 2 bodies
+		- perpetual state of grief 
+- Ve is surrounded by a field
+	- instead a pocket
+	- Tomb of Thueron is the only way out
+- Stellan
+	- "alive again"
+	- on his 8th life
+	- Ask Lyra why he's alive
+	- blew off one too many dates (5 times)
+		- cursed him
+	- he knows alot he just doesnt know he knows alot
+	- in pain emotionally
+- Draphilir
+	- Sundering info
+		- was 250 when it occured
+		- young and stupid
+		- the old powers did not fall in battles
+			- they were more unstitched
+			- 9 heads, 9 threads and the garment came apart around everyone
+			- morvian broke into 9 embers
+			- the world has ached like an unhealed break for 600 years
+			- scholars say the old gods are dead
+			- they never fed anything
+			- a thing that has not decayed can still returned
+				- not hope
+			- 2 months ago, he felt something through the water
+			- far north for an hour, decay ran backwards
+				- not possible
+			- first divine act in 6 centuries
+				- ask why they have gone quiet
+			- Valdris
+				- that was forgery 
+				- handled now
+			- the amber witness testified
+			- PERMISSION TO KILL VALDRIS
+			- hands in blyss
+			- anchors point where we're going
+			- going to be sent to investigate them
+				- probably not unguarded
+			- 60 years ago. clearing a village
+				- girl in something
+				- furious about being alive
+				- carried her to the place of light
+				- Seraphine Dawnfear
+					- high luminary
+					- 2nd passengers ever
+		- Stopping by a toy maker!
+- Arriving at Chitin Cove
+	- small cove and garden
+	- undisturbed, two scarecrows 
+	- 

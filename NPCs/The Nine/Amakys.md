@@ -27,6 +27,7 @@ tags:
 
 ## Backstory Notes
 
+- she's supposed to keep beasts at bay
 - 
 
 
