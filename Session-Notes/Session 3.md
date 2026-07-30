@@ -72,7 +72,7 @@ The palace bright, it contemplates. ->
 
 What seems as star from distant void  
 Is tool by collector employed,  
-To pull from earth what should r emain  
+To pull from earth what should remain  
 And cast to astral sea's domain. 
 
 The swamp grows dark, the earth decays,  

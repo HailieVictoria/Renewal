@@ -43,4 +43,101 @@ type: sessNote
 	- Hall of focusing mirrors 
 - Library is the Scriptoria 
 - Some dispel the daylight spell to observe the night sky around 11
-- 
+- Sunlight Court is the place for leisure social gatherings 
+- seek out Odile Farsight to talk about information
+- Radiant Eternal is an abstract godlike entity 
+	- backseat
+	- worshiped and talked about mainly here
+	- maybe run into 1 to 1000 ppl that follow
+	- not a lot of direct impact
+	- stands for light hope justice radience etc
+		- has gained a rep for being a false idol or false god
+		- finds the backseat as a cowards approach 
+- IT IS MAGUS 8
+- Scriptoria 
+	- shelves are in the wall
+	- some have books some have crystals
+		- or boxes with labels
+	- no torches or lanterns
+	- soft even glow
+- Events on the Continent recently
+	- Land blights
+		- Garlow
+		- and Northern (Kogakura)
+		- Locquine peace is holding with yuki elves
+	- Rumor
+		- Strange lights and anchors
+			- Strange light on northern coast
+				- like a lightning bolt
+			- Anchors are recorded as weird structures on stone being noticed
+				- abandoned or grown over
+		- no pattern yet
+	- Bye bye Gnotobi
+	- Keswindi obtaining greatest financial status ever on Ve 
+		- 1 month ago
+	- Oracle death
+		- Palace was expecting it
+	- 3 groups in total,
+		- one being us
+		- deeds listed
+		- group 3 with exalted emissary
+			- disbanded the exalted's lair in Kogakura 
+			- mobile anchor was a disaster for mirabel
+		- group 1 has resolved the migration crisis of gnotobi 
+- We get breakfast in Mess Hall
+	- we meet Freddy who calls us the "dead people"
+
+- The 9 and Divine Sparks
+	- Known Aliases
+		- Amakys - Samaryk 
+		- Argon - Gnaros
+		- Fade - Adefine 
+		- Lyra - Raylia
+		- Mars - Samris
+		- Pendyll Quill - Quinley
+		- Siege - Regeis
+		- User - Ruseau
+		- Vesper - Perseval
+	![[Pasted image 20260729213947.png]]
+- Sundering 
+	- 9 Mortals reaching for divinities as peers 
+- Old Gods 
+	- information should not leave the palace of light
+	- names, you have not heard cannot read
+	- The Entities that Came Before
+	- Kaldroth
+		- obsessed with permanence and geometric order; immense ego, barely contained wrath, brooks no challenge.
+	- Morvian
+		- values responsible knowledge-sharing and sacrifice for the greater good; melancholy, carries cosmic loneliness willingly.
+	- Nyxeira
+		- natural progression of time, the hope found in new beginnings, and the gentle transformation that comes with patience.
+	- Unknown 1 -  ? Sylandria
+		- sees healing and death as equally sacred; nurturing but willing to end a life if it serves "the greater pattern."
+	- Unknown 2
+		- justice curdled into zealotry; pride in judgment has become dangerous certainty.
+	- Unknown 3
+		- controlled destruction as purification; speaks in thunder, sees chaos as necessary against stagnation.
+	- Unknown 4
+		- patient nurturer of growth and adaptation, but ruthless toward anything that corrupts natural development.
+	- Unknown 5
+		- ancient, patient, holds memory the way the ocean holds pressure; speaks in depths and currents.
+	- Unknown 6
+		- eternally-working artisan; believes creation itself is the highest divine act.
+	- Unknown 7
+		- power of communication, the harmony found in diverse perspectives, and the infinite branches of possibility that stem from connection.
+	- Unknown 8
+		- preservation of forgotten knowledge, the power of hidden truths, and the necessity of darkness as a counterbalance to light.
+- Siege specifically
+- Merging Spells
+- Kaervos
+	- pre-Sundering daemon **never absorbed by the Nine** - defeated and bound by **Siege** into a necklace-anchored demiplane, so the Nine filed him as a defeated prisoner, not a worship-seat. Owns no public domain; survives parasitically on the **margins of Mars** and **Sylandria**. -> spectacle, undeath, suffering-as-entertainment
+- Theuron 
+
+
+
+LORE
+- the moment we leave the room we're in
+- Sending spell to us 
+	- do not know the sender
+	- simulated, not read in a voice
+	- "Among you, is a traitor, one of you will leak information that should not be shared"
