@@ -111,11 +111,11 @@ type: sessNote
 		- values responsible knowledge-sharing and sacrifice for the greater good; melancholy, carries cosmic loneliness willingly.
 	- Nyxeira
 		- natural progression of time, the hope found in new beginnings, and the gentle transformation that comes with patience.
-	- Unknown 1 -  ? Sylandria
+	- Sylandria
 		- sees healing and death as equally sacred; nurturing but willing to end a life if it serves "the greater pattern."
 	- Unknown 2
 		- justice curdled into zealotry; pride in judgment has become dangerous certainty.
-	- Unknown 3
+	- Voreth
 		- controlled destruction as purification; speaks in thunder, sees chaos as necessary against stagnation.
 	- Unknown 4
 		- patient nurturer of growth and adaptation, but ruthless toward anything that corrupts natural development.
