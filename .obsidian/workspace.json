@@ -83,7 +83,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -221,13 +223,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdb8ee4080a3c432",
+  "active": "b9f9ade873c396e3",
   "lastOpenFiles": [
+    "Session-Notes/Session 26.md",
     "Session-Notes/Session 8.md",
     "Session-Notes/Session 6.md",
     "Session-Notes/Session 7.md",
     "Session-Notes/Session 22.md",
-    "Session-Notes/Session 26.md",
     "Session-Notes/Session 27.md",
     "Session-Notes/Session 5.md",
     "Session-Notes/Session 3.md",

@@ -40,3 +40,4 @@ type: sessNote
 		- Siege
 		- Argon
 	- Victorious at Kogakura, slowed Mirabell? Witnessed a miracle, Old God Voreth, Seek out Aveline at Palace she was with us. Just killed Stuhac at Shadowkeep
+	- I HATE JAKE PAYNE  I HATE JAKE PAYNE I HATE JAKE PAYNE
