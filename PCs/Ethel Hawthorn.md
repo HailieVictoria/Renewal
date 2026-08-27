@@ -25,3 +25,4 @@ tags:
 ## General Notes
 
 - Come back and get Draphilir out :)
+- spellcrafting - 1
