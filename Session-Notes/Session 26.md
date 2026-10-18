@@ -105,27 +105,27 @@ type: sessNote
 	- information should not leave the palace of light
 	- names, you have not heard cannot read
 	- The Entities that Came Before
-	- Kaldroth
+	- Kaldroth, The Wrathful Earth
 		- obsessed with permanence and geometric order; immense ego, barely contained wrath, brooks no challenge.
-	- Morvian
+	- Morvian, The Fallen Star
 		- values responsible knowledge-sharing and sacrifice for the greater good; melancholy, carries cosmic loneliness willingly.
-	- Nyxeira
+	- Nyxeira, The Eternal Dawn
 		- natural progression of time, the hope found in new beginnings, and the gentle transformation that comes with patience.
-	- Sylandria
+	- Sylandria, The Blood Weaver
 		- sees healing and death as equally sacred; nurturing but willing to end a life if it serves "the greater pattern."
-	- Unknown 2
+	- Solarian, The First Judge
 		- justice curdled into zealotry; pride in judgment has become dangerous certainty.
-	- Voreth
+	- Voreth, The Storm Crown
 		- controlled destruction as purification; speaks in thunder, sees chaos as necessary against stagnation.
-	- Unknown 4
+	- Verdania, The Root Mother
 		- patient nurturer of growth and adaptation, but ruthless toward anything that corrupts natural development.
-	- Unknown 5
+	- Myroth, The Tide Father
 		- ancient, patient, holds memory the way the ocean holds pressure; speaks in depths and currents.
-	- Unknown 6
+	- Chronarch, The First Smith
 		- eternally-working artisan; believes creation itself is the highest divine act.
-	- Unknown 7
+	- Aethara, The Thousand Voices
 		- power of communication, the harmony found in diverse perspectives, and the infinite branches of possibility that stem from connection.
-	- Unknown 8
+	- Umbra, The Night Weaver
 		- preservation of forgotten knowledge, the power of hidden truths, and the necessity of darkness as a counterbalance to light.
 - Siege specifically
 - Merging Spells

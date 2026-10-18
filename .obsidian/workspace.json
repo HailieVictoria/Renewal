@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2535f7e1e94b2366",
+        "id": "abe6d9f7e737c5a1",
         "type": "tabs",
         "children": [
           {
-            "id": "cccd95136109d121",
+            "id": "a57eb4bfeb8cded2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session-Notes/Session 29.md",
+                "file": "Session-Notes/Session 33 - Big Session Part 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 29"
+              "title": "Session 33 - Big Session Part 2"
             }
           }
         ]
@@ -203,34 +203,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cccd95136109d121",
+  "active": "a57eb4bfeb8cded2",
   "lastOpenFiles": [
+    "Session-Notes/Session 26.md",
+    "NPCs/The Nine/Fade.md",
+    "Session-Notes/Session 33 - Big Session Part 2.md",
+    "Button.md",
+    "Session-Notes/Session 32 - Big Session Part 1.md",
+    "Session-Notes/Session 31.md",
+    "Session-Notes/Session 25.md",
+    "Session-Notes/Session 27.md",
+    "Session-Notes/Session 23.md",
+    "Session-Notes/Session 24.md",
+    "Session-Notes/Session 28.md",
+    "Session-Notes/Session 29.md",
+    "Session-Notes/Session 30.md",
+    "Session-Notes/Session 21.5.md",
+    "Locations/Structures/The Palace of Light.md",
+    "Session-Notes/Session 5.md",
+    "Session-Notes/Session 4.md",
+    "Session-Notes/Session 3.md",
+    "Session-Notes/Session 2.md",
     "Session-Notes/Session 0.md",
     "Session-Notes/Session 1.md",
-    "Session-Notes/Session 29.md",
-    "Locations/Structures/The Palace of Light.md",
-    "Session-Notes/Session 24.md",
-    "Session-Notes/Session 25.md",
-    "Session-Notes/Session 26.md",
-    "Session-Notes/Session 28.md",
-    "Session-Notes/Session 27.md",
-    "Button.md",
-    "PCs/Ethel Hawthorn.md",
-    "Session-Notes/Session 21.5.md",
-    "Session-Notes/Session 22.md",
-    "Session-Notes/Session 3.md",
-    "Session-Notes/Session 8.md",
-    "Session-Notes/Session 6.md",
+    "Session-Notes/Session 9.md",
     "Session-Notes/Session 7.md",
-    "Session-Notes/Session 5.md",
+    "Session-Notes/Session 21.md",
+    "Session-Notes/Session 8.md",
     "Session-Notes/Session 10.md",
-    "Session-Notes/Session 13.md",
-    "Session-Notes/Session 14.md",
-    "Session-Notes/Session 15.md",
-    "Session-Notes/Session 16.md",
-    "Session-Notes/Session 12.md",
-    "NPCs/The Nine/Vesper.md",
-    "NPCs/The Nine/User.md",
     "Pasted image 20260729213947.png",
     "Pasted image 20260128203102.png",
     "Pasted image 20260408193256.png",
