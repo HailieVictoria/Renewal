@@ -98,7 +98,7 @@ type: sessNote
 		- Siege - Regeis
 		- User - Ruseau
 		- Vesper - Perseval
-	![[Pasted image 20260729213947.png]]
+	![[Pasted image 20260729213947.png|675]]
 - Sundering 
 	- 9 Mortals reaching for divinities as peers 
 - Old Gods 
